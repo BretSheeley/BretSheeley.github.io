@@ -22,10 +22,10 @@ repository               : "BretSheeley/BretSheeley.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PittHS(1x1)123.jpg"
   name             : "Hi, I'm Bret."
   pronouns         : # example: "she/her"  
-  bio              : "About Me"
+  bio              : # About Me
   location         : "Pittsburgh, PA"
   employer         : "University of Pittsburgh"
   uri              : https://business.pitt.edu/professors/bret-sheeley/ # URL
