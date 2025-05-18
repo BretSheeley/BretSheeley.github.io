@@ -3,7 +3,7 @@ title: " "
 permalink: /research/
 ---
 
-# Interests:
+# Research Interests:
 Using an experimental methodology to examine management control system design and its effects on the judgment and decision-making of employees, managers, and investors.
 
 # Peer-Reviewed Publications:
