@@ -3,7 +3,7 @@ title: " "
 permalink: /teaching/
 ---
 
-# Interests:
+# Teaching Interests:
 Managerial Accounting, Financial Accounting, Accounting Information Systems
 
 # Experience:
