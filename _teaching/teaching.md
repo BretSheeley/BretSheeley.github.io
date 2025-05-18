@@ -4,7 +4,6 @@ permalink: /teaching/
 ---
 
 # Interests:
-Managerial Accounting, Financial Accounting, ...# Interests:
 Managerial Accounting, Financial Accounting, Accounting Information Systems
 
 # Experience:
