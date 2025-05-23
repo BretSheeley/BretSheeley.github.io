@@ -19,7 +19,7 @@ Managerial Accounting, Financial Accounting, Accounting Information Systems
 - Managerial Accounting, Spring 2022
   - 4.9/5 overall instructor rating
 
-## Minnesota State University Moorhead, Moorhead, MN
+## Minnesota State University Moorhead
 - Financial Management (online), Spring 2019
   - 4.6/5 overall instructor rating
 - Principles of Accounting I, Fall 2018-Spring 2019
