@@ -8,7 +8,7 @@ Managerial Accounting, Financial Accounting, Accounting Information Systems
 
 # Experience:
 ## University of Pittsburgh
-- Accounting Information Systems, Spring 2025
+- Accounting Information Systems, Spring 2025-present
   - 4.6/5 overall instructor rating
 
 ## University of Nebraska-Lincoln	
