@@ -13,11 +13,15 @@ Using an experimental methodology to examine management control system design an
 - Marsula, S., B. Sheeley, T. A. Thornock, and S. Winkelmann. 2025. “Making Upward Feedback Work Through Anonymity.” <i>Strategic Finance</i>. [Link](https://www.imatoday.org/learn/article/making-upward-feedback-work-through-anonymity)
   
 # Working Papers
-- “Investor Judgments of Human Capital Initiatives: The Role of Initiative Type and Financial Performance” with Ling Harris and Khim Kelly [Link](https://ssrn.com/abstract=5263358)
+- “Investor Judgments of Human Capital Initiatives: The Role of Initiative Type, Investor Orientation, and Financial Performance” with Ling Harris and Khim Kelly [Link](https://ssrn.com/abstract=5263358)
 
-- “The Effect of Anonymity in Upward Feedback: How Feedback Valence and Participation Basis Affect Manager Response” with Svenja Marsula, Todd Thornock, and Sandra Winkelmann
+- “How Anonymity Affects Manager Response to Negative Upward Feedback: The Moderating Role of Voluntariness” with Svenja Marsula, Todd Thornock, and Sandra Winkelmann
+
+- “Pushed Out or Pulled Away? Signaling Effects of Pay-To-Quit Incentives on Employee Turnover” with Eric Chan and Todd Thornock
 
 # Works in Progress:
-- “Pay-to-Quit Incentives” with Todd Thornock and Eric Chan
+- “Pay-to-Quit Incentives in Teams” with Patrick Martin and Spencer Vogrinec
 
-- “Information Acquisition” with Steve Bachmann
+- “Hurdle Rates, Budget Charge Rates, and Managers’ Capital Allocation Decisions” with Steve Bachmann
+
+- “Principal Information Set Ambiguity and Agent Decision Quality” with Reed Dickson
